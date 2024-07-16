@@ -67,7 +67,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2024-07-06</lastmod>
+    <lastmod>2024-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,7 +75,7 @@
   
   <url>
     <loc>http://yoursite-url/tags/Linux/</loc>
-    <lastmod>2024-07-06</lastmod>
+    <lastmod>2024-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -84,7 +84,7 @@
   
   <url>
     <loc>http://yoursite-url/categories/Linux/</loc>
-    <lastmod>2024-07-06</lastmod>
+    <lastmod>2024-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
